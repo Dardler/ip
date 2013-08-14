@@ -2,4 +2,4 @@
 web1: 
   php_extensions: 
     - eaccelerator
-    - mysql
+    - curl
