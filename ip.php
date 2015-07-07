@@ -1,6 +1,6 @@
 <?php
 
-$MyIP = file_get_contents('http://ipv4.internet.yandex.ru/api/v0/ip');
+$MyIP = file_get_contents('http://myip.ru/');
 echo $MyIP . "</br>";
 ?>
 
